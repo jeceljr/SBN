@@ -1,0 +1,51 @@
+EESchema (2007-07-09)  >> Creation date: 14/5/2009-11:42:12
+
+#Componente ( ordenação = Referência )
+| J1         DB25        
+| U1         74LS161     
+| U10        74LS175     
+| U11        74LS175     
+| U12        74LS83      
+| U13        74LS83      
+| U14        RAM_32KO    
+| U15        74LS244     
+| U16        74LS273     
+| U17        74LS74      
+| U18        74LS02      
+| U19        74LS04      
+| U2         74LS161     
+| U20        74LS00      
+| U3         74LS161     
+| U4         74LS161     
+| U5         74LS374     
+| U6         74LS374     
+| U7         74LS244     
+| U8         74LS244     
+| U9         74LS273     
+#Fim dos Componentes
+
+#Componente ( ordenação = Valor )
+| 74LS00       U20       
+| 74LS02       U18       
+| 74LS04       U19       
+| 74LS161      U1        
+| 74LS161      U2        
+| 74LS161      U3        
+| 74LS161      U4        
+| 74LS175      U10       
+| 74LS175      U11       
+| 74LS244      U15       
+| 74LS244      U7        
+| 74LS244      U8        
+| 74LS273      U16       
+| 74LS273      U9        
+| 74LS374      U5        
+| 74LS374      U6        
+| 74LS74       U17       
+| 74LS83       U12       
+| 74LS83       U13       
+| DB25         J1        
+| RAM_32KO     U14       
+#Fim dos Componentes
+
+#Fim da Lista
